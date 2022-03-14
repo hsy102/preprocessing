@@ -10,8 +10,6 @@ command : python unpair_move_and_log.py --checkunpair "path"
 
 
 
-
-
 # 2. nodedelete.py
 
 	1) x == y : object delete
@@ -19,4 +17,13 @@ command : python unpair_move_and_log.py --checkunpair "path"
 	3) x, y > width, height : x/y_min, x/y_max == width, height
 
 command : python nodedelete.py --nodedelete "path"
+
+
+
+# 3. xml_object_name_classification.ipynb
+
+1) Classified by file tool and copied.
+2) Delete classes other than that class.
+3) Check the quantity.
+
 
