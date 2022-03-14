@@ -27,3 +27,20 @@ command : python nodedelete.py --nodedelete "path"
 3) Check the quantity.
 
 
+
+# 4. delete_specific_extension_files.ipynb
+
+Delete specific extension files in multiple directories.
+
+
+
+# 5. output_filenames.ipynb
+
+Output file names in the directory.
+
+1) Extensions included.
+2) Remove extensions.
+3) Delete the generated filename.txt file.
+
+
+
