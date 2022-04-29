@@ -50,3 +50,9 @@ Property type of video: filename, width, height, fps (Starting with index 1)
 
 
 
+# 7. change_filename.ipynb
+
+Read column before & after change in excel file and change file name.
+
+
+
