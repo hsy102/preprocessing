@@ -46,7 +46,7 @@ Output file names in the directory.
 
 # 6. extract_video_properties_and_save_as_excel.ipynb
 
-Property type of video: filename, width, height, fps (Starting with index 1)
+Property type of video: filename, width, height, fps, hms, size (Starting with index 1)
 
 
 
