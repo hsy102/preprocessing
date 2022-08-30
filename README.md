@@ -62,4 +62,11 @@ Switches the positions of rows and columns in excel or csv file.
 
 
 
+# 9. Number_of_videos_completed.ipynb
+
+1) Number of videos and total surgeries by surgery.
+2) Number of surgeries completed and total number of surgeries completed.
+3) Counting the number of tools by surgery.
+
+
 
