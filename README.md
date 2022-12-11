@@ -70,3 +70,12 @@ Switches the positions of rows and columns in excel or csv file.
 
 
 
+# 10. merging_csv_col.ipynb
+
+Import only necessary columns from two csv files and create one file.
+
+
+
+
+
+
