@@ -76,6 +76,12 @@ Import only necessary columns from two csv files and create one file.
 
 
 
+# 11. classify_files_by_filename.ipynb
+
+Classify files by creating a folder with a specific string of file names.
+
+
+
 
 
 
