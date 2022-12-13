@@ -82,6 +82,7 @@ Classify files by creating a folder with a specific string of file names.
 
 
 
+# 12. merge_into_one_csv.ipynb
 
-
+Merge all csv files and merge specific columns.
 
