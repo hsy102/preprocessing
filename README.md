@@ -86,3 +86,54 @@ Classify files by creating a folder with a specific string of file names.
 
 Merge all csv files and merge specific columns.
 
+
+
+# 13. add_col_to_csv.ipynb
+
+Add column with formula to csv file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
