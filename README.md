@@ -20,11 +20,10 @@ command : python nodedelete.py --nodedelete "path"
 
 
 
-# 3. xml_object_name_classification.ipynb
+# 3. xml_object_classification.py
 
-1) Classified by file tool and copied.
+1) Classified by file Annotation Class and copied.
 2) Delete classes other than that class.
-3) Check the quantity.
 
 
 
@@ -100,7 +99,10 @@ Change the frame number of the video in units of 15 frames.
 
 
 
+# 15. json_object_classification.py
 
+1) Classified by file Annotation Class and copied.
+2) Delete classes other than that class.
 
 
 
