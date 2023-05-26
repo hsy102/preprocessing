@@ -106,6 +106,9 @@ Change the frame number of the video in units of 15 frames.
 
 
 
+# 16. image_combine_v3.py
+
+A script that attaches the original image and the image with annotation polygons added as lines on both sides.(Transparency adjustable)
 
 
 
