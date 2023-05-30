@@ -112,7 +112,9 @@ A script that attaches the original image and the image with annotation polygons
 
 
 
+# 17. image_combine_v4.py
 
+A script that attaches the original image and the image with annotation rectangles added as lines on both sides.(Transparency adjustable)
 
 
 
