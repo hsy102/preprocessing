@@ -118,11 +118,11 @@ A script that attaches the original image and the image with annotation rectangl
 
 
 
+# 18. gt_inference_confusion_matrix.py
 
+A script that compares files with the same file name in the gt folder and the file name in the inference folder to obtain classification model performance evaluation indicators
 
-
-
-
+command : python gt_inference_confusion_matrix.py --gt_folder_path "GT folder path" --pred_folder_path "Inference folder path" --output_folder_path "Folder path to save results"
 
 
 
